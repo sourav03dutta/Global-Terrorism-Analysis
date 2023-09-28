@@ -45,9 +45,8 @@ Visualization is also done on the data sets. Correlation analysis is done to com
 
 11. Total number of people killed in each region (TOP 10):-
 
-    • Maximum - Middle East and North Africa –137642 people killed.
-
-    • Minimum - East Asia - 1152 people killed.
+• Maximum - Middle East and North Africa –137642 people killed.
+• Minimum - East Asia - 1152 people killed.
 
   Total number of people wounded in each region (TOP 10) :-
 
