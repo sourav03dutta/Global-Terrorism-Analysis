@@ -44,7 +44,9 @@ Visualization is also done on the data sets. Correlation analysis is done to com
 10. In the year 1970 to 2000, the terrorist activities were vey frequent. After 2010, we can see the rise of terrorist activity in Middle East and North Africa, South Asia and Sub Saharan Desert.
 
 11. Total number of people killed in each region (TOP 10):-
+
     • Maximum - Middle East and North Africa –137642 people killed.
+
     • Minimum - East Asia - 1152 people killed.
 
   Total number of people wounded in each region (TOP 10) :-
