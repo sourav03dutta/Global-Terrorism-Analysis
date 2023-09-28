@@ -62,6 +62,7 @@ Visualization is also done on the data sets. Correlation analysis is done to com
   • Minimum - East Asia - 10365 people casualties.
 
 12. Total number of people killed in each country (TOP 10):-
+
   • Maximum - Iraq - 78589 people killed.
 
   • Minimum - El Salvador - 12053 people killed.
