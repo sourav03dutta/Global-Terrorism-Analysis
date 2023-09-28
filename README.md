@@ -44,64 +44,64 @@ Visualization is also done on the data sets. Correlation analysis is done to com
 10. In the year 1970 to 2000, the terrorist activities were vey frequent. After 2010, we can see the rise of terrorist activity in Middle East and North Africa, South Asia and Sub Saharan Desert.
 
 11. Total number of people killed in each region (TOP 10):-
-• Maximum - Middle East and North Africa –137642 people killed.
+  • Maximum - Middle East and North Africa –137642 people killed.
 
-• Minimum - East Asia - 1152 people killed.
+  • Minimum - East Asia - 1152 people killed.
 
-Total number of people wounded in each region (TOP 10) :-
+  Total number of people wounded in each region (TOP 10) :-
 
-• Maximum - Middle East and North Africa – 214308 people wounded.
+  • Maximum - Middle East and North Africa – 214308 people wounded.
 
-• Minimum - Central America and Caribbean - 8991 people wounded.
+  • Minimum - Central America and Caribbean - 8991 people wounded.
 
-Total number of people casualties in each region (TOP 10) :-
+  Total number of people casualties in each region (TOP 10) :-
 
-• Maximum - Middle East and North Africa – 351950 people casualties.
+  • Maximum - Middle East and North Africa – 351950 people casualties.
 
-• Minimum - East Asia - 10365 people casualties.
+  • Minimum - East Asia - 10365 people casualties.
 
 12. Total number of people killed in each country (TOP 10):-
-• Maximum - Iraq - 78589 people killed.
+  • Maximum - Iraq - 78589 people killed.
 
-• Minimum - El Salvador - 12053 people killed.
+  • Minimum - El Salvador - 12053 people killed.
 
-Total number of people wounded in each country (TOP 10):-
+  Total number of people wounded in each country (TOP 10):-
 
-• Maximum - Iraq - 134690 people wounded.
+  • Maximum - Iraq - 134690 people wounded.
 
-• Minimum - Colombia - 10328 people wounded.
+  • Minimum - Colombia - 10328 people wounded.
 
-Total number of people casualties in each country (TOP 10):-
+  Total number of people casualties in each country (TOP 10):-
 
-• Maximum - Iraq - 213279 people casualties.
+  • Maximum - Iraq - 213279 people casualties.
 
-• Minimum - Philippines - 22926 people casualties.
+  • Minimum - Philippines - 22926 people casualties.
 
 13. Total number of people killed in each city (TOP 10):-
 
-• Maximum - Baghdad - 21151 people killed.
+  • Maximum - Baghdad - 21151 people killed.
 
-• Minimum - Aleppo - 2125 people killed.
+  • Minimum - Aleppo - 2125 people killed.
 
-Total number of people wounded in each city (TOP 10):-
+  Total number of people wounded in each city (TOP 10):-
 
-• Maximum - Baghdad - 56725 people wounded.
+  • Maximum - Baghdad - 56725 people wounded.
 
-• Minimum - Mogadishu - 4955 people wounded.
+  • Minimum - Mogadishu - 4955 people wounded.
 
-Total number of people casualties in each city (TOP 10):-
+  Total number of people casualties in each city (TOP 10):-
 
-• Maximum - Baghdad - 77876 people casualties.
+  • Maximum - Baghdad - 77876 people casualties.
 
-• Minimum - Aleppo - 5748 people casualties.
+  • Minimum - Aleppo - 5748 people casualties.
 
 14. Humanity affected by terrorism worldwide from 1970 to 2017 :-
 
-• Killed - 411868,
+  • Killed - 411868,
 
-• Wounded - 523869,
+  • Wounded - 523869,
 
-• Casualties - 935737.
+  • Casualties - 935737.
 
 
 
