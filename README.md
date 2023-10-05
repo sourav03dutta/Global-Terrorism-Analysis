@@ -1,6 +1,8 @@
 
 # Global Terrorism Analysis
 
+THIS PROJECT IS VERIFIED BY -[@ALMABETTER](https://www.almabetter.com/)
+
 
 ![Logo](https://c4.wallpaperflare.com/wallpaper/208/691/734/counter-strike-counter-strike-global-offensive-game-cg-games-art-wallpaper-preview.jpg)
 
