@@ -1,7 +1,7 @@
 
 # Global Terrorism Analysis
 
-THIS PROJECT IS VERIFIED BY -[@ALMABETTER](https://www.almabetter.com/)
+THIS PROJECT IS VERIFIED BY [ALMABETTER](https://www.almabetter.com/)
 
 
 ![Logo](https://c4.wallpaperflare.com/wallpaper/208/691/734/counter-strike-counter-strike-global-offensive-game-cg-games-art-wallpaper-preview.jpg)
@@ -120,7 +120,7 @@ Visualization is also done on the data sets. Correlation analysis is done to com
 
 ## Author
 
-- [@sourav03dutta](https://github.com/sourav03dutta)
+- [sourav03dutta](https://github.com/sourav03dutta)
 
 
 
